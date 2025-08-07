@@ -37,7 +37,11 @@ A comprehensive web-based tool for learning Data Structures and Algorithms throu
 - Interactive input controls
 - Output prediction interface
 
-### 📸 ScreenShot
+## 📸 ScreenShot
+![Uploading Screenshot 2025-08-07 121547.png…]()
+![Uploading Screenshot 2025-08-07 121607.png…]()
+
+
 
 ## 🚀 How to Use
 
