@@ -38,8 +38,11 @@ A comprehensive web-based tool for learning Data Structures and Algorithms throu
 - Output prediction interface
 
 ## 📸 ScreenShot
-![Uploading Screenshot 2025-08-07 121547.png…]()
-![Uploading Screenshot 2025-08-07 121607.png…]()
+<img width="1896" height="867" alt="Screenshot 2025-08-07 121547" src="https://github.com/user-attachments/assets/9e0c1c29-2487-4244-b82b-4b70a6eedfde" />
+
+<img width="1886" height="863" alt="Screenshot 2025-08-07 121607" src="https://github.com/user-attachments/assets/d08b31b3-9147-44a0-8235-bfc563603535" />
+
+
 
 
 
